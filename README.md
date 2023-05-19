@@ -43,7 +43,7 @@
 
  ## *"You can ask to me about!:*
 
-- Front-end development using *React.js*, *Node.js*
+- Front-end development using *React.js*, *Node.js* , *Next.js* , *TailWind CSS* .
 - Solving Data structure and algorithm questions in *Java*
 
   
