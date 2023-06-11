@@ -85,11 +85,11 @@
  
  <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamDubey20&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
+    <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheril04&theme=tokyonight&count_private=true&include_all_commits=true" alt="sheril04" >   </td>
   </tr> 
    
  <tr>
-   <td><img src="https://activity-graph.herokuapp.com/graph?username=ShivamDubey20&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+   <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheril04&theme=tokyonight&count_private=true&include_all_commits=true"  display=block width=100% height=auto  alt="1"></td>
   </td>
   </tr>
   
