@@ -79,18 +79,3 @@
   <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDubey20&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
    
 </table>
-    
-    
- <h2 align="center">Productivity Stats📈 !! 😊</h2>
- 
- <table>
-  <tr>
-    <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheril04&theme=tokyonight&count_private=true&include_all_commits=true" alt="sheril04" >   </td>
-  </tr> 
-   
- <tr>
-   <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheril04&theme=tokyonight&count_private=true&include_all_commits=true"  display=block width=100% height=auto  alt="1"></td>
-  </td>
-  </tr>
-  
-</table>
