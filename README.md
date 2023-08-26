@@ -56,11 +56,3 @@
 
 ***
  
-<hr>
-
-<h2 align="center">Visitor Count👨‍💻 !!</h2>
-<p align="center">
-  
-  ![VisitorCount!!😊](https://profile-counter.glitch.me/{ShivamDubey20}/count.svg) 
-  
-</p>
